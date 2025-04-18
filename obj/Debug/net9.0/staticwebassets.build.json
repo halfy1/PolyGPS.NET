@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "3866Q5W3v/qZMjlhaniwNRaeHXdT9uXDKeqYbD6a7LE=",
+  "Source": "SatelliteTracker.Backend",
+  "BasePath": "_content/SatelliteTracker.Backend",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
